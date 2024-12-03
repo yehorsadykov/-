@@ -1,0 +1,14 @@
+D:\Directory\Завдання 1\bin\Debug\net8.0\Завдання 1.exe
+D:\Directory\Завдання 1\bin\Debug\net8.0\Завдання 1.deps.json
+D:\Directory\Завдання 1\bin\Debug\net8.0\Завдання 1.runtimeconfig.json
+D:\Directory\Завдання 1\bin\Debug\net8.0\Завдання 1.dll
+D:\Directory\Завдання 1\bin\Debug\net8.0\Завдання 1.pdb
+D:\Directory\Завдання 1\obj\Debug\net8.0\Завдання 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Directory\Завдання 1\obj\Debug\net8.0\Завдання 1.AssemblyInfoInputs.cache
+D:\Directory\Завдання 1\obj\Debug\net8.0\Завдання 1.AssemblyInfo.cs
+D:\Directory\Завдання 1\obj\Debug\net8.0\Завдання 1.csproj.CoreCompileInputs.cache
+D:\Directory\Завдання 1\obj\Debug\net8.0\Завдання 1.dll
+D:\Directory\Завдання 1\obj\Debug\net8.0\refint\Завдання 1.dll
+D:\Directory\Завдання 1\obj\Debug\net8.0\Завдання 1.pdb
+D:\Directory\Завдання 1\obj\Debug\net8.0\Завдання 1.genruntimeconfig.cache
+D:\Directory\Завдання 1\obj\Debug\net8.0\ref\Завдання 1.dll

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotel>
+  <Rooms>
+    <Room Number="101" Price="1000" IsOccupied="true" />
+    <Room Number="102" Price="1200" IsOccupied="true" />
+    <Room Number="103" Price="1500" IsOccupied="false" />
+  </Rooms>
+  <Clients>
+    <Client LastName="Іваненко" BookedRoomNumber="101" />
+    <Client LastName="Петренко" BookedRoomNumber="102" />
+  </Clients>
+</Hotel>
